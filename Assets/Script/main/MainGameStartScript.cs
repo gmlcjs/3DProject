@@ -12,7 +12,7 @@ public class MainGameStartScript : MonoBehaviour
         if (other.CompareTag("Player"))
         {
             // ¾À ·Îµù (A ¾ÀÀ¸·Î ÀÌµ¿)
-            SceneManager.LoadScene("Game"); 
+            SceneManager.LoadScene("GameScene"); 
         }
     }
 
