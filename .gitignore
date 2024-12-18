@@ -1,1 +1,10 @@
-ㄴㅁ
+# .gitignore 파일 내용
+
+# Ignore everything
+/*
+
+# But not these directories
+!/Assets/
+!/Packages/
+!/ProjectSettings/
+!/UserSettings/
